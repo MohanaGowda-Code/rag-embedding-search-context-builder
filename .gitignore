@@ -1,0 +1,104 @@
+HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+# ===============================
+# Java / Maven / Gradle
+# ===============================
+target/
+build/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# ===============================
+# IDE files
+# ===============================
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# ===============================
+# OS files
+# ===============================
+.DS_Store
+Thumbs.db
+
+# ===============================
+# Environment / Secrets
+# ===============================
+.env
+.env.*
+application-local.yml
+application-local.properties
+application-dev.yml
+application-dev.properties
+
+# ===============================
+# AI / OpenAI / API Keys
+# ===============================
+openai.key
+secrets.yml
+secrets.properties
+
+# ===============================
+# Uploaded files (PDFs, docs)
+# ===============================
+uploads/
+pdfs/
+documents/
+tmp/
+
+# ===============================
+# Vector DB / Embedding storage
+# ===============================
+*.db
+*.sqlite
+*.h2.db
+*.mv.db
+
+# ===============================
+# Logs
+# ===============================
+logs/
+*.log
+
+# ===============================
+# Test output
+# ===============================
+out/
+
