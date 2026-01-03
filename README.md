@@ -62,7 +62,7 @@ POST /chat
 }
 
 ## 👨‍💻 Author
-**Mohana**  
+**Mohana P**  
 Senior Java & Microservices Engineer  
 Exploring AI, RAG, and LLM integration with Spring Boot
 
